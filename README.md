@@ -10,4 +10,4 @@ User: ubuntu
 
 Password: ubuntu
 
-You can download the image here: https:www.dgebhardt.de 
+You can download the image here: https://www.dgebhardt.de 
