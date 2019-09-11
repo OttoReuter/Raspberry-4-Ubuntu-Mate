@@ -9,3 +9,5 @@ The settings are in German.
 User: ubuntu
 
 Password: ubuntu
+
+Follow the steps in this manual: https://www.dgebhardt.de/raspi-projects/projects/ubuntu_mate.html.
