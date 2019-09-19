@@ -1,5 +1,5 @@
 
-# RPI4-Raspberry-Ubuntu-Server
+# RPi4-Ubuntu-Server
 10. September 2019:
 
 The new Raspberry 4 is currently only supported by Raspbian Buster. This is very disappointing because everyone had expected more. Therefore, here you can build an Ubuntu Mate Image (experimental status) for the Raspberry 4 with 64 bit and 4 GB support.
